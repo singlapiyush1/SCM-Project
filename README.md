@@ -28,7 +28,7 @@ Hema Reddy Muppidi
 
 -----------------
 
-### PROBLEM 3 :  UML Use Case Diagram - Use case model for OpenArch
+### PROBLEM 3 :  UML Class Diagram
 
 #### Mind map task holder:
 Piyush Singla and
